@@ -1,4 +1,4 @@
-# Physics-Engine Based Interactive Golf Simulation (大三專題：MediaPipe 與 Unity 結合)
+# Physics-Engine Based Interactive Golf Simulation (University Project：MediaPipe 與 Unity 結合)
 
 This is my college capstone project (September 2024 - June 2025). The goal was to build an interactive, real-time golf simulation game that only requires a standard webcam, eliminating the need for expensive hardware sensors. 
 
