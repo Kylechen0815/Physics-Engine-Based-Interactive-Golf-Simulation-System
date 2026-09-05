@@ -1,4 +1,4 @@
-# Interactive Golf Simulation (大三專題：MediaPipe 與 Unity 結合)
+# Physics-Engine Based Interactive Golf Simulation (大三專題：MediaPipe 與 Unity 結合)
 
 This is my college capstone project (September 2024 - June 2025). The goal was to build an interactive, real-time golf simulation game that only requires a standard webcam, eliminating the need for expensive hardware sensors. 
 
@@ -15,7 +15,7 @@ It uses **MediaPipe** to track the player's swing posture, calculates the physic
 
 ---
 
-## 📸 Screenshots & Development Progress
+##  Screenshots & Development Progress
 
 Below are screenshots from different stages of development, showing the integration of pose tracking and the physics simulation environment:
 
