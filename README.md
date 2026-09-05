@@ -17,6 +17,7 @@ It uses **MediaPipe** to track the player's swing posture, calculates the physic
 
 - Video Demo: [Watch the real-time simulation in action](https://www.youtube.com/watch?v=CsEDxNdRhNc)
 - Project Report: [View the full PDF documentation](https://drive.google.com/file/d/12Rherkt5Mp_6AAFTCAjWRr-qW2hOhjL4/view?usp=drive_link)
+- Post：  [View the full PDF documentation](https://www.csie.ntpu.edu.tw/uploads/file/f1_202506041531096131.pdf)
 
 ---
 
