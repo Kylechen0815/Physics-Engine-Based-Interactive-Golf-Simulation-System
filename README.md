@@ -29,6 +29,8 @@ The system uses a camera to capture the user's swing video, and the MediaPipe Po
 * The system uses TCP as the connection method between Unity and MediaPipe. 
 * When MediaPipe detects the human keypoints, it directly transmits the coordinate data to Unity via a TCP connection and instantly updates the skeleton animation.
 
+<img width="898" height="600" alt="屏幕截图 2026-09-05 175008" src="https://github.com/user-attachments/assets/877d29aa-0bba-4f51-afa8-ef299d2ce75c" />
+
 ---
 
 ##  Club and Course Simulation Parameters
@@ -45,7 +47,6 @@ All ball types are standardized to a mass of 45.93 grams and a diameter of 1.68 
 * **Friction:** Affects the rolling distance after landing.
 * **Spin Resistance:** Lower spin resistance allows the ball to spin more, enhancing lift and increasing flight distance.
 
-<img width="898" height="600" alt="屏幕截图 2026-09-05 175008" src="https://github.com/user-attachments/assets/877d29aa-0bba-4f51-afa8-ef299d2ce75c" />
 
 <img width="811" height="218" alt="屏幕截图 2026-09-05 175634" src="https://github.com/user-attachments/assets/fa714ef7-a8c8-4b82-8b79-561080a70b8b" />
 
