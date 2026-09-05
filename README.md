@@ -7,7 +7,7 @@ It uses **MediaPipe** to track the player's swing posture, calculates the physic
 ##  Tech Stack & Implementation Details
 - **Game Engine & UI:** Unity (C#)
 - **Computer Vision:** MediaPipe (2D Pose Estimation)
-- **Physics Engine:** C++ 
+- **Physics Engine:** Python
   - Built the core physics from scratch, handling gravity, air damping, surface friction, and collision handling.
 - **Performance Optimization:** 
   - Implemented Temporal Differencing and motion constraints to reduce processing overhead.
