@@ -9,7 +9,7 @@ It uses **MediaPipe** to track the player's swing posture, calculates the physic
 - Video Demo: [Watch the real-time simulation in action](https://www.youtube.com/watch?v=CsEDxNdRhNc)
 - Speech Report: [View the full PDF documentation](https://drive.google.com/file/d/12Rherkt5Mp_6AAFTCAjWRr-qW2hOhjL4/view?usp=drive_link)
 - Post：  [View the full PDF documentation](https://www.csie.ntpu.edu.tw/uploads/file/f1_202506041531096131.pdf)
-- Analyzed Report:  [View the full PDF documentation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://drive.usercontent.google.com/download?id=1mZwggFLGVw9H-41jKrYmuNdJ70bjM0dv&acrobatPromotionSource=gdrive_chrome-native_view&gdriveEmail=true#authuser=1&gdriveEmail=kylechen2004815%40gmail.come)
+- Analyzed Report:  [View the full PDF documentation](https://drive.google.com/file/d/1mZwggFLGVw9H-41jKrYmuNdJ70bjM0dv/view)
 
 ##  Tech Stack & Implementation Details
 - **Game Engine & UI:** Unity (C#)
