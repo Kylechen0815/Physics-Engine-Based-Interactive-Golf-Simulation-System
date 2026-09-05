@@ -19,6 +19,9 @@ It uses **MediaPipe** to track the player's swing posture, calculates the physic
 - **Performance Optimization:** 
   - Implemented Temporal Differencing and motion constraints to reduce processing overhead.
   - Successfully bridged lightweight pose estimation with the physics engine to ensure smooth, real-time feedback.
+
+<img width="898" height="600" alt="屏幕截图 2026-09-05 175008" src="https://github.com/user-attachments/assets/877d29aa-0bba-4f51-afa8-ef299d2ce75c" />
+
  
 
 ---
