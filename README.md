@@ -39,3 +39,10 @@ Below are screenshots from different stages of development, showing the integrat
 <img width="952" height="746" alt="屏幕截图 2025-05-17 225450" src="https://github.com/user-attachments/assets/ebac3532-06e1-4fde-b956-94a7d496f515" />
 
 <img width="1096" height="708" alt="屏幕截图 2025-05-17 225341" src="https://github.com/user-attachments/assets/475fe27a-ddf0-492e-b9ca-5e8c2b623243" />
+
+<img width="731" height="742" alt="屏幕截图 2025-03-26 223200" src="https://github.com/user-attachments/assets/426e35e9-1969-4671-aa35-fa1d4769a727" />
+
+<img width="606" height="612" alt="屏幕截图 2025-03-26 223049" src="https://github.com/user-attachments/assets/4a20638e-4fdd-4fe7-9633-363dceec6c30" />
+
+<img width="1726" height="832" alt="屏幕截图 2025-05-17 190721" src="https://github.com/user-attachments/assets/435ec17e-1ce6-4891-8245-e9629a77988e" />
+
