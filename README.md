@@ -22,7 +22,9 @@ It uses **MediaPipe** to track the player's swing posture, calculates the physic
 
 <img width="898" height="600" alt="屏幕截图 2026-09-05 175008" src="https://github.com/user-attachments/assets/877d29aa-0bba-4f51-afa8-ef299d2ce75c" />
 
- 
+<img width="811" height="218" alt="屏幕截图 2026-09-05 175634" src="https://github.com/user-attachments/assets/fa714ef7-a8c8-4b82-8b79-561080a70b8b" />
+
+<img width="1726" height="832" alt="屏幕截图 2025-05-17 190721" src="https://github.com/user-attachments/assets/d7816c8d-ec27-42f8-b19d-4626d7a64480" />
 
 ---
 
@@ -50,5 +52,4 @@ Below are screenshots from different stages of development, showing the integrat
 
 <img width="606" height="612" alt="屏幕截图 2025-03-26 223049" src="https://github.com/user-attachments/assets/4a20638e-4fdd-4fe7-9633-363dceec6c30" />
 
-<img width="1726" height="832" alt="屏幕截图 2025-05-17 190721" src="https://github.com/user-attachments/assets/435ec17e-1ce6-4891-8245-e9629a77988e" />
 
