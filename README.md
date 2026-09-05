@@ -4,6 +4,12 @@ This is my college capstone project (September 2024 - June 2025). The goal was t
 
 It uses **MediaPipe** to track the player's swing posture, calculates the physical forces, and simulates a realistic ball trajectory in **Unity** using a custom-built 3D physics engine.
 
+#  Demo & Documentation
+
+- Video Demo: [Watch the real-time simulation in action](https://www.youtube.com/watch?v=CsEDxNdRhNc)
+- Project Report: [View the full PDF documentation](https://drive.google.com/file/d/12Rherkt5Mp_6AAFTCAjWRr-qW2hOhjL4/view?usp=drive_link)
+- Post：  [View the full PDF documentation](https://www.csie.ntpu.edu.tw/uploads/file/f1_202506041531096131.pdf)
+
 ##  Tech Stack & Implementation Details
 - **Game Engine & UI:** Unity (C#)
 - **Computer Vision:** MediaPipe (2D Pose Estimation)
@@ -13,11 +19,6 @@ It uses **MediaPipe** to track the player's swing posture, calculates the physic
   - Implemented Temporal Differencing and motion constraints to reduce processing overhead.
   - Successfully bridged lightweight pose estimation with the physics engine to ensure smooth, real-time feedback.
  
-##  Demo & Documentation
-
-- Video Demo: [Watch the real-time simulation in action](https://www.youtube.com/watch?v=CsEDxNdRhNc)
-- Project Report: [View the full PDF documentation](https://drive.google.com/file/d/12Rherkt5Mp_6AAFTCAjWRr-qW2hOhjL4/view?usp=drive_link)
-- Post：  [View the full PDF documentation](https://www.csie.ntpu.edu.tw/uploads/file/f1_202506041531096131.pdf)
 
 ---
 
