@@ -1,4 +1,24 @@
-# 大三專題-Meidapipe 與 Unity 做結合
+# Interactive Golf Simulation (大三專題：MediaPipe 與 Unity 結合)
+
+This is my college capstone project (September 2024 - June 2025). The goal was to build an interactive, real-time golf simulation game that only requires a standard webcam, eliminating the need for expensive hardware sensors. 
+
+It uses **MediaPipe** to track the player's swing posture, calculates the physical forces, and simulates a realistic ball trajectory in **Unity** using a custom-built 3D physics engine.
+
+##  Tech Stack & Implementation Details
+- **Game Engine & UI:** Unity (C#)
+- **Computer Vision:** MediaPipe (2D Pose Estimation)
+- **Physics Engine:** C++ 
+  - Built the core physics from scratch, handling gravity, air damping, surface friction, and collision handling.
+- **Performance Optimization:** 
+  - Implemented Temporal Differencing and motion constraints to reduce processing overhead.
+  - Successfully bridged lightweight pose estimation with the physics engine to ensure smooth, real-time feedback.
+
+---
+
+## 📸 Screenshots & Development Progress
+
+Below are screenshots from different stages of development, showing the integration of pose tracking and the physics simulation environment:
+
 <img width="1673" height="814" alt="屏幕截图 2026-01-09 024103" src="https://github.com/user-attachments/assets/81399403-2e44-427a-ae2d-8dd87e3b88f7" />
 
 <img width="1675" height="787" alt="屏幕截图 2026-01-09 024120" src="https://github.com/user-attachments/assets/ff0bb603-43e7-494e-93a6-fc3e3bb6733d" />
